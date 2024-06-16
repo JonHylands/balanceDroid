@@ -1,0 +1,23 @@
+Drill report for head_board.kicad_pcb
+Created on 2024-06-15T19:30:11-0400
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'head_board-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.600mm  0.0236"  (22 holes)
+    T2  2.200mm  0.0866"  (2 holes)
+
+    Total plated holes count 24
+
+
+Drill file 'head_board-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
